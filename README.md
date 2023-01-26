@@ -1,6 +1,6 @@
 # Digitalisation_Unité_industriel
 Le projet Digitalisation_Unité_industriel vise à digitaliser les processus, les ressources humaines, la production, la qualité et les projets en utilisant les produits Microsoft Power plateforme. Il utilise des applications Canvas et Model-Driven, ainsi qu'un agent virtuel pour créer des bots qui fonctionnent sur Microsoft Teams. PowerBI est utilisé pour tout ce qui concerne la visualisation de données et l'intelligence d'affaires, tandis que Power Automate est utilisé pour automatiser et optimiser les processus. Ce projet sera open source, veuillez me contacter pour obtenir tout le système de gestion à digitaliser.
-Description du processus: 
+Description du processus à digitaliser : 
 
 ![image](https://user-images.githubusercontent.com/8742071/214882438-96cadbac-a38c-4431-94ea-8688293737fa.png)
 
@@ -59,7 +59,39 @@ PR4 Concevoir les produits et process  (Conception et innovation produits, proce
         Atteinte des temps objectifs au 3ème lancement série
         Taux de service de la présérie et des 3 premières livraisons
         
-        ![image](https://user-images.githubusercontent.com/8742071/214887911-c1bfff90-c367-4cd7-a9a8-5c8d67a0e5d4.png)
+
+
+PS1 Animer les ressources humaines 
+        1.	Finalité
+	Fournir aux processus des ressources humaines nécessaires et suffisantes à l’atteinte de leurs objectifs dans le but d’une motivation personnel
+
+        2.	Indicateurs de Performance
+	Absentéisme global société
+	Sécurité (accident de travail)
+	Degré de polyvalence
+
+PS2 Animer la politique achat PS2
+        1.	Finalité
+        Mettre à disposition des fournisseurs permettant d’avoir des produits conformes en matière de qualité/coût/délai
+
+        2.	Indicateurs de Performance
+        Synthèse de l’évaluation des Frournissuers 
+
+PS3 Déployer et animer le SMQSE 
+        1.	Finalité
+
+        Mettre en place, surveiller et améliorer un système de management de la qualité, sécurité et environnement performant, conforme aux exigences clients, légales         et règlementaires et permettant de fournir un produit conforme.
+
+        2.	Indicateurs de performance
+
+        Performance du système de management
+        Non-conformités Clients (Coûts, Quantité)
+        Taux de fréquence des accidents du travail
+
+
+
+
+
 
 
 
