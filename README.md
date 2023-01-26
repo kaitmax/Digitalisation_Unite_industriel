@@ -18,3 +18,49 @@ PM1 : Manager le Groupe
         •	Seuils intermédiaires de gestion (PM1)
         •	Indicateurs des processus (TP)
 
+PR 2 : PILOTER LES AFFAIRES ET LES CHANTIERS
+
+        1.	Finalité
+
+        Piloter les affaires, projets et chantiers afin de valider les premiers de série et de réaliser des prestations répondant aux exigences et permettant la               satisfaction des clients.
+
+        2.	Indicateurs de Performance
+
+        •	Ecart de budget (PR2)
+        •	Taux d’avancement (réalisé vs prévisionnel) (PR2)
+        •	Réussite des FAI et réception de chantiers (PR2)
+        •	Non-conformités Clients (Quantité)
+     
+PR3 Animer les sites : ( supply chain, approvisionner, production site, ressources humaines)
+  
+          1.	Finalité
+        Gérer, organiser, mesurer et améliorer le site afin de fabriquer des produits répondant aux exigences et permettant la satisfaction des clients.
+
+        2.	Indicateurs de Performance
+        Chiffre d’Affaires
+        Taux de Services Clients
+        Non-conformités Clients (Coûts, Quantité)
+        Efficience de production (En heure)
+        Rebuts internes (Inventaires)
+        Taux de Service Fournisseurs
+        Non-conformités Fournisseurs (Coûts, Quantité)
+        Taux d’accident
+        Consommation d’énergie (électricité et gaz)
+        
+PR4 Concevoir les produits et process  (Conception et innovation produits, process et industrialisation)
+
+        1.	Finalité
+        Concevoir des produits conforme aux attentes des clients et des process permettant de maîtriser la qualité, les coûts et les délais ainsi que la                       règlementation.
+
+        2.	Indicateurs de Performance
+        Taux de réussite aux devis
+        Comparatif offre de prix et coût de revient
+        Réussite aux FAI
+        Atteinte des temps objectifs au 3ème lancement série
+        Taux de service de la présérie et des 3 premières livraisons
+        
+        ![image](https://user-images.githubusercontent.com/8742071/214887911-c1bfff90-c367-4cd7-a9a8-5c8d67a0e5d4.png)
+
+
+
+
