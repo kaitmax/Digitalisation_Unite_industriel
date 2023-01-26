@@ -9,7 +9,7 @@ PM1 : Manager le Groupe
         1.	Finalité
 
         Manager la stratégie et la performance opérationnelle du groupe. 
-        Dans la durée, conduire et développer l’entreprise en créant de la valeur ajoutée et en écoutant ses partenaires (clients, fournisseurs, personnel, actionnaires         et collectivités locales)
+        Dans la durée, conduire et développer l’entreprise en créant de la valeur ajoutée et en écoutant ses partenaires (clients, fournisseurs, personnel, 		actionnaires         et collectivités locales)
 
         2.	Indicateurs de Performance
 
@@ -62,7 +62,8 @@ PR4 Concevoir les produits et process  (Conception et innovation produits, proce
 
 
 PS1 Animer les ressources humaines 
-        1.	Finalité
+       
+       1.	Finalité
 	Fournir aux processus des ressources humaines nécessaires et suffisantes à l’atteinte de leurs objectifs dans le but d’une motivation personnel
 
         2.	Indicateurs de Performance
@@ -71,14 +72,16 @@ PS1 Animer les ressources humaines
 	•	Degré de polyvalence
 
 PS2 Animer la politique achat PS2
-        1.	Finalité
+        
+	1.	Finalité
         Mettre à disposition des fournisseurs permettant d’avoir des produits conformes en matière de qualité/coût/délai
 
         2.	Indicateurs de Performance
         •	Synthèse de l’évaluation des Frournissuers 
 
 PS3 Déployer et animer le SMQSE 
-        1.	Finalité
+        
+	1.	Finalité
 
         Mettre en place, surveiller et améliorer un système de management de la qualité, sécurité et environnement performant, conforme aux exigences clients, légales         et règlementaires et permettant de fournir un produit conforme.
 
