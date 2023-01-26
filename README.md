@@ -4,7 +4,7 @@ Description du processus à digitaliser :
 
 ![image](https://user-images.githubusercontent.com/8742071/214882438-96cadbac-a38c-4431-94ea-8688293737fa.png)
 
-![PM1](https://github.com/kaitmax/Digitalisation_Unite_industriel/tree/main/PM1)  : Manager le Groupe 
+[PM1](https://github.com/kaitmax/Digitalisation_Unite_industriel/tree/main/PM1)  : Manager le Groupe 
 
         1.	Finalité
 
